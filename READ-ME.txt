@@ -1,0 +1,9 @@
+  =>  Template Name    : Envize Consultancy - ISO Certification | LWG Certification | Audit | Eco Compliance | Environmental Solutions
+
+  =>  Template Link    : https://github.com/imadhavrao/Envize-Consultancy-Website.git
+
+  =>  Template License : https://envizeconsultancy.in/ (or read the LICENSE.txt file)
+
+  =>  Template Author  : Madhava Rao
+
+  =>  Author Website   : https://linktr.ee/iamraomadhav
